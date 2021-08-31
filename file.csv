@@ -1,11 +1,8 @@
-label1,label2,num
-installation_yes,installation_no,0.85865484
-age,years_exp,0.77188501
+label1,label2,Correlation
 case_study_Apiculture,case_study_Water,0.67449615
 subject_phyto_interest_phyto_decrease,subject_phyto_interest_phyto_stop,0.67300905
 age,install_year,0.62920106
 subject_phyto_interest_phyto_decrease,subject_phyto_interest_phyto_stationary,0.5971631
-install_year,years_exp,0.55157351
 nb_culture_per_year,nb_products,0.50322588
 installation_in_progress,installation_yes,0.48754991
 case_study_Water,nb_products,0.47367117
